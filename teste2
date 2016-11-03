@@ -1,4 +1,4 @@
 <?php 
-  $robson = 10;
+  $robson = "oi eu sou robson";
   echo "Teste $robson";
 ?>
